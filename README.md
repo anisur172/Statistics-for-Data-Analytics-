@@ -1,4 +1,4 @@
-# Statistics for Data-Analytics Important Topics 
+# Statistics Important Topics 
 
 1.Different types of statistics
 
@@ -16,7 +16,7 @@
 
 8.Percentile  & Quartiles 
 
-9. 5 Number summary Box chart
+9.5 Number summary & Box chart
 
 10.Histogram, pero to Chart, Pi chart, bar chat, 80-20/power chart
 
