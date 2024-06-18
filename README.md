@@ -1,9 +1,13 @@
 # Statistics for Data-Analytics Important Topics 
 
 1.Different types of statistics
+
 2.Population Vs sample 
+
 3.Mean, Median and mode
+
 4.Variance and Standard deviation 
+
 5.sample variance why n-1
 6.Standard deviation 
 7.Variables  and Random variables.
